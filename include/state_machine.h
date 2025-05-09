@@ -5,15 +5,13 @@
 
 enum State {
     STARTUP,
-    GREETING,
-    WAIT_INPUT
+    FELIX,
+    MORITZ
 };
 
 enum StateEvent {
     EVENT_NONE = 0,
     EVENT_AUDIO_FINISHED,
-    EVENT_BUTTON_YES,
-    EVENT_BUTTON_NO
 };
 
 class StateMachine {
