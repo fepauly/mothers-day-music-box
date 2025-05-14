@@ -2,6 +2,21 @@
 
 A sweet (and a little cheesy) DIY project for Mother's Day! This interactive music box plays personalized audio messages from me and my brother using an Arduino Uno and DFPlayer Mini, all wrapped up in a cute 3D printed case.
 
+## Finished Project
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="parts/assembly_front.png" alt="Front view" width="300"/></td>
+      <td><img src="parts/assembly_back.png" alt="Back view" width="300"/></td>
+    </tr>
+    <tr>
+      <td align="center"><i>Front view</i></td>
+      <td align="center"><i>Back view</i></td>
+    </tr>
+  </table>
+</div>
+
+
 ## What is this?
 This is a homemade Mother's Day gift that plays recorded personal messages from loved ones. When turned on, it plays a startup sound followed by messages from me and my brother in sequence. The state machine can be easily updated though.
 
